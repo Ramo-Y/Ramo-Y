@@ -10,7 +10,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramo-Y&count_private=true&theme=dark" />
 </a>
 
-![stats](https://github-readme-stats.vercel.app/api?username=Ramo-Y&show_icons=true&count_private=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=Ramo-Y&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
 
 </div>
 
