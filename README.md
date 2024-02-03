@@ -2,6 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/Ramo-Y/Ramo-Y/master/resources/NeverGonnaGiveYouUp.gif" width="600"/>
 
+### Tesla referral
+You can simply use my Tesla referral code to get something for free
+https://ts.la/ramazan759464
+
 ### Ramo's work on GitHub
 
 <div align="center">
