@@ -6,6 +6,10 @@
 You can simply use my Tesla referral code to get something for free
 https://ts.la/ramazan759464
 
+### Tesla referral
+With my Tessie referral code you immediately get one month for free
+https://share.tessie.com/tp5Dy7eC7Hb
+
 ### Ramo's work on GitHub
 
 <div align="center">
